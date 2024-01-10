@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg", ECHO S1 Ep.1 (2024)
+https://cdn.filetodirectlink.workers.dev/AgADOR48299?file_name=Echo.S01E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg", ECHO S1 Ep.2 (2024)
+https://cdn.filetodirectlink.workers.dev/AgADOh48307?file_name=Echo.S01E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg", ECHO S1 Ep.3 (2024)
+https://cdn.filetodirectlink.workers.dev/AgADOx48309?file_name=Echo.S01E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg", ECHO S1 Ep.4 (2024)
+<link>https://cdn.filetodirectlink.workers.dev/AgADPB48315?file_name=Echo.S01E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv</link>
+<thumbnail>https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg</thumbnail><fanart>https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg</fanart>
+</item>
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/content/1x/echo_lob_crd_02.jpg", ECHO S1 Ep.5 (2024)
+https://cdn.filetodirectlink.workers.dev/AgADPR48319?file_name=Echo.S01E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cinevisao.pt/wp-content/uploads/2023/05/Napoleao-poster-PT.jpg", NAPOLEÃO (2023)
+https://cdn.filetodirectlink.workers.dev/AgADsh46045?file_name=Napoleon.2023.720p.AMZN.WEBRip.900MB.x264-GalaxyRG.mkv
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/series/posters/big/146176.jpg", BERLIN S1 Ep.1
 https://cdn.filetodirectlink.workers.dev/AgADwR37272?file_name=Berlin.2023.S01E01.SPANISH.720p.WEBRip.x264-GalaxyTV.mkv
 
