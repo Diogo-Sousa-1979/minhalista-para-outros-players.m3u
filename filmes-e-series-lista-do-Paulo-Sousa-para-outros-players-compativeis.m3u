@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINf:-1 tvg-logo="https://static8.opensubtitles.org/gfx/thumbs/4/3/8/7/1477834.jpg", group-title="FILMES 2018", AQUAMAN (2018)
+#EXTVLCOPT:sub-file=D:\Aquaman (2018) 720p BluRay x264-[MoviesFD]\Aquaman.2018.720p.BluRay.x264-[MoviesFD].srt
+https://cdn.filetodirectlink.workers.dev/AgADhR69580?file_name=Aquaman.2018.720p.BluRay.x264-%5BMoviesFD%
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://mb.web.sapo.io/82848f3559a59b048c14bc17543348d89e620157.jpg", group-title="FILMES 2023", WONKA (2023)
 https://cdn.filetodirectlink.workers.dev/AgADTx67890?file_name=Wonka.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
 
