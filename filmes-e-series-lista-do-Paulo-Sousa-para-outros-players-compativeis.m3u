@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINf:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/12/07/19/08/2800297.jpg", group-title="FILMES 2023", PATOS (2023)
-https://cdn.filetodirectlink.workers.dev/AgADPB84112?file_name=Migration.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
-
-#EXTM3U
 #EXTINf:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/12/20/19/50/2457017.jpg", group-title="FILMES 2024", 60 MINUTOS (2024)
 https://cdn.filetodirectlink.workers.dev/AgAD4x80738?file_name=Sixty.Minutes.2024.720p.WEBRip.x264.AAC-WORLD.mkv
 
@@ -13,6 +9,10 @@ https://cdn.filetodirectlink.workers.dev/AgADrR80588?file_name=Aquaman_and_the_L
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mb.web.sapo.io/82848f3559a59b048c14bc17543348d89e620157.jpg", group-title="FILMES 2023", WONKA (2023)
 https://cdn.filetodirectlink.workers.dev/AgADTx67890?file_name=Wonka.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+
+#EXTM3U
+#EXTINf:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/12/07/19/08/2800297.jpg", group-title="FILMES 2023", PATOS (2023)
+https://cdn.filetodirectlink.workers.dev/AgADPB84112?file_name=Migration.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mb.web.sapo.io/f4e7ce8a07c67b2a30bacec5e273a81fe8d80891.jpg", group-title="SERIES 2024", ZORRO S1 Ep.1 (2024)
