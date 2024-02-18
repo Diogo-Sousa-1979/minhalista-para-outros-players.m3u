@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINf:-1, BOUDICA (2023)
-#EXTVLCOPT:SUBTITLE=https://www.opensubtitles.org/en/subtitles/9774022/boudica-queen-of-war-pt
-#EXTVLCOPT:subsdec-encoding=UTF-8
-https://cdn.filetodirectlink.workers.dev/2038519433/AgAD5Q1657
+#EXTINf:-1, tvg-logo="https://cinevisao.pt/wp-content/uploads/2023/05/57-Segundos-poste-rPT.jpg", group-title="FILMES 2023", 57 SEGUNDOS (2023)
+#EXTVLCOPT:sub-file=https://pipocas.tv/legendas/download/201304
+https://cdn.filetodirectlink.workers.dev/2038519433/AgADGA1664
 
 #EXTM3U
 #EXTINf:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/23/06/14/20/18/3063969.jpg", group-title="FILMES 2023", FLASH (2023)
