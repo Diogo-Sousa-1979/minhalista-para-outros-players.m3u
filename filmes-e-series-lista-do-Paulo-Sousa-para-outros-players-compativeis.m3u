@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINf:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg", group-title="FILMES 2024", LIGHTS OUT (2024)
-https://app.plex.tv/desktop/?_gl=1*1yb9kv6*_ga*MzkxNzc3ODc0LjE3MDgzNjA3NzI.*_ga_G6FQWNSENB*MTcwODY5NzM4OS40LjAuMTcwODY5NzM5MC41OS4wLjA.#!/server/8776b31c9fe7590e48ec473a8983585f6cd673be/details?key=%2Flibrary%2Fmetadata%2F12238&context=source%3Ahub.movie.recentlyreleased~1~1
+http://127.0.0.1:32400/web/index.html#!/server/8776b31c9fe7590e48ec473a8983585f6cd673be/details?key=%2Flibrary%2Fmetadata%2F12238&context=home%3Ahub.continueWatching~0~0
 
 #EXTM3U
 #EXTINf:-1, tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zXiqgwerUrAtIzVL9OyRcG90oTh.jpg", group-title="FILMES 2023", BOUDICA A RAINHA GUERREIRA (2023)
