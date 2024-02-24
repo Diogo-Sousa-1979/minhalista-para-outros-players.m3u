@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINf:-1, FILME TESTE
+http://desktop-qtn2gec:8096/Items/bfd00bd5e56d118deb6f682bdfd76a15/Download?api_key=120e7f7272e5466890e25fd186a67b98
+
+#EXTM3U
 #EXTINf:-1, tvg-logo="https://cdn.nos.pt/cinemas/movies/files/700x1000/4c674b01-40e6-41db-abd3-c3e456c20841_Image.jpg", group-title="FILMES 2023", TUDO MENOS TU (2023)
 http://127.0.0.1:11470/1dd2b4b6c2f52b98fbf06c817704f1d13cec3da5/0
 
