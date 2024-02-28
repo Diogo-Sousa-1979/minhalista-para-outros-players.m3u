@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINf:-1, FILME TESTE
-http://tinyurl.com/msfzsmj7
+#EXTINF:6110,GalaxyRG - In.The.Land.Of.Saints.And.Sinners.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG, tvg-logo="https://filmspot.com.pt/images/filmes/posters/1027073.jpg", group-title="FILMES 2023", NA TERRA DOS SANTOS E PECADORES (2023)
+In.The.Land.Of.Saints.And.Sinners.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+
+#EXTM3U
+#EXTINF:6027,GalaxyRG - Code.8.Part.II.2024.720p.WEBRip.800MB.x264-GalaxyRG, tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/01/22/08/48/5850718.jpg", group-title="FILMES 2024", CODE 8: RENEGADOS PARTE II (2024)
+Code.8.Part.II.2024.720p.WEBRip.800MB.x264-GalaxyRG.mkv
 
 #EXTM3U
 #EXTINf:-1, tvg-logo="https://cdn.nos.pt/cinemas/movies/files/700x1000/4c674b01-40e6-41db-abd3-c3e456c20841_Image.jpg", group-title="FILMES 2023", TUDO MENOS TU (2023)
